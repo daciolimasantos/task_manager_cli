@@ -1,0 +1,11 @@
+{
+    "next_id": 3,
+    "tasks": [
+        {
+            "id": 2,
+            "title": "Test task",
+            "description": "",
+            "status": "pending"
+        }
+    ]
+}
